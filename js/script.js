@@ -13,8 +13,8 @@ const BOT_MSGS = [
 // Icons made by Freepik from www.flaticon.com
 const BOT_IMG = "https://image.flaticon.com/icons/svg/327/327779.svg";
 const PERSON_IMG = "https://image.flaticon.com/icons/svg/145/145867.svg";
-const BOT_NAME = "BOT";
-const PERSON_NAME = "Sajad";
+const BOT_NAME = "Marboris";
+const PERSON_NAME = "Mehrab";
 
 msgerForm.addEventListener("submit", (event) => {
   event.preventDefault();
