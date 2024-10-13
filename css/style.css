@@ -45,10 +45,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  border-top: var(--border);
-  background: #eee;
-  color: #666;
-  border-radius: 16px;
 }
 
 .msger-chat {
@@ -151,9 +147,6 @@ body {
 }
 
 .msger-chat {
-  background-color: #fcfcfe;
-  background-image: url(../img/wp5287069-xxxtentacion-17-desktop-wallpapers.png);
-  background-size: contain;
-  background-blend-mode: overlay;
-  background-color: lightblue;
+  background: linear-gradient(155deg, #e0edffd1 5%, #1d3fa4 95%);
+  padding-top: 31px;
 }
